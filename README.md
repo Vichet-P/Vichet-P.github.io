@@ -1,6 +1,5 @@
 # Vichet-P.github.io
-The website for Web Design for beginner
-// Website Sabay News
+The website for Web Design for beginner Website Sabay News
 <!DOCTYPE html>
 <html lang="en">
 <head>
